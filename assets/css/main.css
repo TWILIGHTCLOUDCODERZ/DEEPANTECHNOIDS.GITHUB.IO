@@ -1383,4 +1383,11 @@ section,
 }
 
 
-
+.heart-icon {
+  color: red; /* Customize the color if needed */
+  vertical-align: middle;
+}
+.credits {
+  text-align: center;
+  margin-top: 10px;
+}
